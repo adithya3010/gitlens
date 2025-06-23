@@ -39,7 +39,7 @@ This document presents GitLens-based insights for identifying the author and com
 - **Editor:** Visual Studio Code
 - **Extension:** GitLens – Git supercharged
 - **Version Control:** Git (via GitHub or local repo)
-- **Source:** COSC HackWeek Challenge – GitLens Detective
+- **Source:** [https://github.com/httpie/cli]
 
 ---
 
